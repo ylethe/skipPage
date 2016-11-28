@@ -1,0 +1,45 @@
+.content{
+    margin:0;
+    padding:0;
+    clear:both;
+}
+.top{
+    width:200px;
+    height:200px;
+    margin:0 auto;
+}
+.middle{
+    min-width:60%;
+    height:400px;
+    margin:40px auto;
+}
+.user{
+    width:230px;
+    height:80px;
+    margin:0 auto;
+    text-align: center;
+}
+.user h1{
+    width:30px;
+    height:30px;
+    line-height:30px;
+    font-size:30px;
+    margin:0 auto;
+}
+.user span{
+    font-size:19px;
+    color:#2db7f5;
+}
+.link{
+    width:100%;
+    height:100px;
+    text-align: center;
+    margin:40px auto;
+}
+.link span{
+    color:#666;
+}
+#goBack{
+    color:#2db7f5;
+}
+
